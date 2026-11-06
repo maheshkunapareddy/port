@@ -1,5 +1,5 @@
 /* =========================================================
-   Vara — Portfolio interactions
+   Mahesh Kunapareddy — Portfolio interactions
    Vanilla JS · no dependencies
    ========================================================= */
 

@@ -1,6 +1,6 @@
-# Vara — Portfolio
+# Mahesh Kunapareddy — Portfolio
 
-A motion-driven personal portfolio built from `vara_portfolio.md` using plain **HTML, CSS, and JavaScript** — no build step, no dependencies.
+A motion-driven personal portfolio built from `mahesh_portfolio.md` using plain **HTML, CSS, and JavaScript** — no build step, no dependencies.
 
 ## Live sections
 
@@ -36,7 +36,7 @@ Then visit `http://localhost:8000`.
 
 Update these placeholders before publishing:
 
-- Email: `vara@example.com` (in `index.html`)
+- Email: `mahesh@example.com` (in `index.html`)
 - GitHub and LinkedIn URLs
 - College, branch, year, and graduation year
 - Project details and screenshots once projects are actually built
@@ -48,8 +48,8 @@ Update these placeholders before publishing:
 | `index.html` | Page structure and content |
 | `styles.css` | Theme, layout, responsive design, motion |
 | `script.js` | Preloader, cursor, canvas, reveals, tilt, typewriter |
-| `vara_portfolio.md` | Original portfolio content |
+| `mahesh_portfolio.md` | Original portfolio content |
 
 ---
 
-Built by Vara.
+Built by Mahesh Kunapareddy.

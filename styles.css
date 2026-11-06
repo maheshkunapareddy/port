@@ -689,6 +689,7 @@ body.menu-open .menu-btn span:last-child {
 }
 
 .line-outline {
+  font-size: 0.8em;
   color: transparent;
   -webkit-text-stroke: 1.2px rgba(255, 255, 255, 0.55);
 }

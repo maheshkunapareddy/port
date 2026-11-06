@@ -17,9 +17,12 @@
   const preloader = $("#preloader");
   const preloaderBar = $("#preloaderBar");
   const preloaderCount = $("#preloaderCount");
+  let loadingFinished = false;
 
   function finishLoading() {
-    if (!preloader) return;
+    if (!preloader || loadingFinished) return;
+    loadingFinished = true;
+
     preloader.classList.add("is-done");
     document.body.classList.remove("is-loading");
     document.body.classList.add("is-loaded");
@@ -31,6 +34,9 @@
     // Hero stat count-up after the entrance
     window.setTimeout(runCounters, 650);
   }
+
+  // Safety net: never leave the page stuck behind the preloader
+  window.setTimeout(finishLoading, 6000);
 
   if (preloader) {
     if (reducedMotion) {

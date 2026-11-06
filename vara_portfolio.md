@@ -1,11 +1,11 @@
-# Mahesh Kunapareddy --- Portfolio
+# Vara --- Portfolio
 
 > B.Tech Student \| Aspiring Software Developer \| Python, Java, Web &
 > Mobile Development
 
 ## About Me
 
-Hello! I'm **Mahesh Kunapareddy**, a B.Tech student interested in
+Hello! I'm **Vara**, a B.Tech student interested in
 software development, web technologies, mobile application development,
 databases, and emerging technologies.
 
@@ -152,7 +152,7 @@ I am continuously working to improve my skills in:
 
 ## Contact
 
--   **Name:** Mahesh Kunapareddy
+-   **Name:** Vara
 -   **Email:** \[Add your professional email\]
 -   **Phone:** \[Add phone number, if you want it public\]
 -   **Location:** Andhra Pradesh, India \[confirm or edit\]

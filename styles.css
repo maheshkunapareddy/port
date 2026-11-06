@@ -2096,22 +2096,6 @@ body.menu-open .menu-btn span:last-child {
   transform: none;
 }
 
-.contact-note {
-  margin-top: 1.6rem;
-  font-family: var(--font-mono);
-  font-size: 0.6rem;
-  letter-spacing: 0.04em;
-  color: var(--muted-2);
-}
-
-.contact-note code {
-  padding: 0.15em 0.4em;
-  border-radius: 4px;
-  background: rgba(255, 255, 255, 0.05);
-  color: var(--muted);
-  font-family: var(--font-mono);
-}
-
 /* ---------- Footer ---------- */
 .footer {
   position: relative;
